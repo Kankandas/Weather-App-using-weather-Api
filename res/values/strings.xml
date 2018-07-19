@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="Open">Weather</string>
+    <string name="Close">Weather</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
